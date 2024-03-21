@@ -1,1 +1,1 @@
-# Assignment_7
+Name: SANGEETHA BADDAM Student id: 700757191 Video link:https://drive.google.com/file/d/11PlFyLPGjYV5_0H024A8LnI9HMsBnUNl/view?usp=drive_link documentation file: 700757191_Assignment 7.pdf code file: icp8_700757191.ipynb
